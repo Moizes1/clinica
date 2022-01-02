@@ -1,0 +1,147 @@
+
+#navegacao {
+	background: #EFF2FB;
+}
+
+#img-logo {
+	margin-left: 60px;
+}
+
+#menu {
+	margin-left: 60px;
+}
+
+#consulta {
+	margin-left: 30px;
+	width: 220px;
+	text-decoration: none;
+	text-align: center;
+	background: blue;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+#sessao-carrosel {
+	margin-top: 98px;
+}
+
+#img-carosel {
+	width: 1400px;
+	height: 550px;
+}
+
+#foto {
+	width: 200px;
+}
+
+#sessao-especialidade {
+	background-color: #CEECF5;
+
+}
+
+
+.especialidade {
+	width: 350px;
+	height: 350px;
+	margin-left: 70px;
+	margin-top: 150px;
+	margin-bottom: 110px;
+	display: inline-block;
+	background-color: #819FF7;
+	border-radius: 30px;
+}
+
+.especialidade img {
+	border: 4px solid #2E2EFE;
+	border-radius: 100px;
+	width: 180px;
+	height: 170px;
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+.especialidade img:hover {
+	border: 8px solid #00FF00;
+}
+
+#frase-especialidade {
+	margin-top: 35px;
+	color: #2E2EFE;
+	font-family: Times, Times New Roman, serif;
+}
+
+ #paragrafo-especialidade {
+ 	color: #0000FF;
+	margin-top: 30px;
+	margin-left: 30px; 
+}
+
+#botao-especialidade {
+	margin-left: 450px;
+	margin-bottom: 20px;
+	padding: 10px;
+	border-radius: 20px;
+	text-decoration: none;
+	width: 500px;
+}
+
+
+#endereco {
+	margin-left: 450px;
+	margin-top: 20px;
+}
+#endereco-frase {
+	color: #2E2EFE;
+	margin-left: 230px;
+	margin-bottom: 50px;
+	font-family: Times, Times New Roman, serif;
+}
+
+
+
+#sessao-informacao {
+	background-color: #EFF2FB;
+}
+
+.informacao {
+	width: 300px;
+	height: 320px;
+	margin-left: 70px;
+	margin-top: 150px;
+	margin-bottom: 160px;
+}
+
+.informacao img {
+	border-radius: 10px;
+	border: 1px solid #819FF7;
+	width: 298px;
+	height: 250px;
+	margin-left: 0px;
+}
+
+#botao-informacao {
+	background-color: #3ADF00;
+	border-radius: 5px;
+	margin-left: 22px;
+	margin-top: 13px;
+}
+#botao-informacao:hover {
+	background-color: #04B404;
+}
+
+#frase-informacao {
+	color: #2E2EFE;
+	margin-top: 50px;
+	font-family: Times, Times New Roman, serif;
+}
+
+#frase-endereco {
+	margin-bottom: 50px;
+}
+
+
+#rodape {
+	color: #0000FF;
+	text-align: center;
+}
+
